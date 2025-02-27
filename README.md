@@ -1,4 +1,4 @@
-## From original repository was changed some requirements versions and numpy foat to float64
+###### From original repository was changed some requirements versions and numpy foat to float64
 # ByteTrack
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bytetrack-multi-object-tracking-by-1/multi-object-tracking-on-mot17)](https://paperswithcode.com/sota/multi-object-tracking-on-mot17?p=bytetrack-multi-object-tracking-by-1)
